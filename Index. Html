@@ -8,7 +8,7 @@ import subprocess
 # ============================================
 # USER CONFIGURATION - यहाँ सेटिंग्स बदलें
 # ============================================
-GITHUB_URL = "https://.git"
+GITHUB_URL = "https://github.com/Howtog41/text-leech-bot.git"
 # स्क्रिप्ट को चलाने वाली डायरेक्टरी के अंदर 'repo' फ़ोल्डर बनेगा
 BASE_DIR = './repo'
 PIP_INSTALL = "requirements.txt"  # रिपॉजिटरी के अंदर requirements फ़ाइल का रास्ता
